@@ -1,5 +1,5 @@
 ## Hi everyone ✨
-My name is Josè Leonardo Zùñiga Hernàndez, web alias "Leonides" 💻.
+My name is José Leonardo Zúñiga Hernéndez, web alias "Leonides" 💻.
 Welcome to my github repository. I'm learning, so it could be some untidy.
 I'm a currently learning about C# and the dotnet enviroment.
 ### Known languages
