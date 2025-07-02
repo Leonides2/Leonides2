@@ -16,7 +16,8 @@ That's all, thanks to read 🎏
 
 ## Github Stats:
 
-![Leonides2's Stats](https://github-readme-stats.vercel.app/api?username=leonides2&show_icons=true&theme=transparent)
+![Leonides2's Stats](https://github-readme-stats.vercel.app/api?username=leonides2&show_icons=true&theme=transparent&text_color=5B47AB&title_color=B6269E&icon_color=ABA847)
+
 <!--
 **Leonides2/Leonides2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
