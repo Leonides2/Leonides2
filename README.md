@@ -12,6 +12,11 @@ I'm a currently learning about C# and the dotnet enviroment.
 If you want to know what I could do, I invite you to see my pins repositories.
 
 That's all, thanks to read 🎏
+
+
+## Github Stats:
+
+![Leonides2's Stats](https://github-readme-stats.vercel.app/api?username=leonides2&show_icons=true&theme=transparent)
 <!--
 **Leonides2/Leonides2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
